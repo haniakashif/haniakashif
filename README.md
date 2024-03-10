@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Hania Kashif 🌟</h1>
 <h3 align="center">I'm an aspiring roboticist 🤖 and an enthusiastic learner who loves adventures 🚀 and learning new things! ⚡ </h3>
 
-- 🔭 I’m currently working on microcontrollers, signal processing basics and learning basics of microelectronics.
+- 🔭 I’m currently working on microcontrollers, basic signal processing, and multistage cascaded amplifiers.
 
 - 🎓 Studying Computer Engineering with a Mathematics Minor at **Habib University**
 
