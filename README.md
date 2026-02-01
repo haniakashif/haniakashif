@@ -1,11 +1,11 @@
 <h1 align="center">Hello! I'm Hania Kashif 🌟</h1>
-<h3 align="center">I'm an aspiring roboticist 🤖 and an enthusiastic learner who loves adventures 🚀 and learning new things! ⚡ </h3>
+<h3 align="center">I have experience in robotics, embedded systems, microcontrollers and deep learning. I am passionate about learning new things and growing in my career ⚡ </h3>
 
-- 🔭 I’m currently working on microcontrollers, basic signal processing, and multistage cascaded amplifiers.
+- I’m currently working on my robotics final year project, studying computer graphics, learning JavaScript and working on Evolutionary Algorithms.
 
-- 🎓 Studying Computer Engineering with a Mathematics Minor at **Habib University**
+- Computer Engineering student with a Mathematics Minor at **Habib University**
 
-- 📫 Reach out to me at hk08454@st.habib.edu.pk
+- Reach out to me at hk08454@st.habib.edu.pk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
